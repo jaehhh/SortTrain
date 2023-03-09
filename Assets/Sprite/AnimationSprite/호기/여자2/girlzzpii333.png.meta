@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: f8b994d88df3ae04c9a1d8bd444e0e99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5999600465137694641
+    second: girlzzpii333_0
+  - first:
+      213: 161816670753733714
+    second: girlzzpii333_1
+  - first:
+      213: 3027804631804917908
+    second: girlzzpii333_2
+  - first:
+      213: 8586181693538434315
+    second: girlzzpii333_3
+  - first:
+      213: 6330743822417098717
+    second: girlzzpii333_4
+  - first:
+      213: 6468795377545795910
+    second: girlzzpii333_5
+  - first:
+      213: 6190928643607936474
+    second: girlzzpii333_6
+  - first:
+      213: 2003525462089037253
+    second: girlzzpii333_7
+  - first:
+      213: -505611541743857742
+    second: girlzzpii333_0
+  - first:
+      213: -6735586762421928070
+    second: girlzzpii333_1
+  - first:
+      213: 6442267832704106177
+    second: girlzzpii333_2
+  - first:
+      213: -860524633027092192
+    second: girlzzpii333_3
+  - first:
+      213: 6413634120265234430
+    second: girlzzpii333_4
+  - first:
+      213: -1298115291613258779
+    second: girlzzpii333_5
+  - first:
+      213: 7177636341740573143
+    second: girlzzpii333_6
+  - first:
+      213: -1413935510334878300
+    second: girlzzpii333_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girlzzpii333_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 28
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf050c4bf4bbf8f0800000000000000
+      internalID: 5999600465137694641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 16
+        width: 28
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7408b6836682a0800000000000000
+      internalID: 161816670753733714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 28
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cef0441678876950800000000000000
+      internalID: 3027804631804917908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 28
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02162ffc76dce04f0800000000000000
+      internalID: 8586181693538434315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 16
+        width: 29
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7fbb1604ec10950800000000000000
+      internalID: 6330743822417098717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 16
+        width: 29
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb93ed150b2cfde0800000000000000
+      internalID: 6468795377545795910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 16
+        width: 33
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1916c59361c9360800000000000000
+      internalID: 6190928643607936474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlzzpii333_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 16
+        width: 28
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adcd2b0521b06ce0800000000000000
+      internalID: 2003525462089037253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      girlzzpii333_6: 6190928643607936474
+      girlzzpii333_3: 8586181693538434315
+      girlzzpii333_5: 6468795377545795910
+      girlzzpii333_0: 5999600465137694641
+      girlzzpii333_4: 6330743822417098717
+      girlzzpii333_7: 2003525462089037253
+      girlzzpii333_1: 161816670753733714
+      girlzzpii333_2: 3027804631804917908
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
